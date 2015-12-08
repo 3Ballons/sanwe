@@ -1,2 +1,3 @@
-# sanwe
-Solution for a Veterinary Clinics
+#Page of Project. For more information check the wiki 
+
+https://github.com/cdreves/sanwe/wiki
